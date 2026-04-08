@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**Karthi-blip/Karthi-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Security Engineer focused on AWS & OCI.
 
-Here are some ideas to get you started:
+## What I Work On
+- IAM policy design
+- VCN & network security
+- Terraform automation
+- Cloud security labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building secure cloud environments with micro-segmentation and least privilege access.
+
+## 🌐 Links
+- Portfolio: https://munagalakarthik.com
+- DEV: https://dev.to/karthiblip
+- LinkedIn: https://www.linkedin.com/in/karthik-munagala-a05206230/

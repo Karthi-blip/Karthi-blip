@@ -12,5 +12,6 @@ Cloud Security Engineer focused on AWS & OCI.
 Building secure cloud environments with micro-segmentation and least privilege access.
 
 ## 🌐 Links
+- Portfolio: https://munagalakarthik.com
 - DEV: https://dev.to/karthiblip
 - LinkedIn: https://www.linkedin.com/in/karthik-munagala-a05206230/
